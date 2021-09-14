@@ -3,7 +3,7 @@ name: Syrupy CICD
 on:
   push:
     branches:
-      - master
+      - test
   pull_request:
 
 env:
